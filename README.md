@@ -2,7 +2,7 @@
 
 👀 I’m interested in technology & coding, nature, books, art, and people!
 
-🌱 I’m currently learning Flutter, Functional Programming, Concepts of Programming Languages, and Dutch.
+🌱 I’m currently learning Flutter and Dutch.
 
 💞️ I’m looking to collaborate on personal coding projects or art projects 👀
 
